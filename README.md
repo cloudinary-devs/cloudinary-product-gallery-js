@@ -1,6 +1,6 @@
 # Cloudinary Product Gallery
 
-This app shows a basic exmaple of the Cloudinary Product Gallery Widget.
+This app shows a basic example of the Cloudinary Product Gallery Widget.
 
 To run locally:
 
